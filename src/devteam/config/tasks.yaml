@@ -1,0 +1,14 @@
+research_task:
+  description: >
+    Conduct a thorough research about {topic} using Google search.
+  expected_output: >
+    A Markdown file summarizing the 10 most relevant search results.
+  agent: researcher
+
+reporting_task:
+  description: >
+    Create a detailed report based on the intermediate research results.
+    Expand each topic into a section with additional context and analysis.
+  expected_output: >
+    A polished Markdown file containing the final report.
+  agent: reporting_analyst
