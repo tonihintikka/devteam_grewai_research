@@ -1,4 +1,3 @@
-```markdown
 # Top Ten Search Results on "Agents as a Programming Team for Software Development using LLMs"
 
 ## 1. From LLMs to LLM-based Agents for Software Engineering
@@ -50,4 +49,3 @@
 - **Link:** [Dev.to](https://dev.to/blackgirlbytes/beyond-llms-my-introductory-experience-with-ai-agents-1fjb)
 - **Date:** October 30, 2024
 - **Summary:** The author shares personal experiences with autonomous AI agents, defined as tools capable of executing operations without human intervention, and reflects on their development and implications.
-```
