@@ -1,4 +1,3 @@
-```markdown
 # Detailed Report on Agents as a Programming Team for Software Development using LLMs
 
 This report explores the utilization of Large Language Models (LLMs) as agents in software development teams. Various articles and resources within the last year have discussed this innovative approach, providing insights into potential applications, advantages, and implications of LLM-based agents in the industry.
@@ -86,4 +85,3 @@ The Dev.to post provides a narrative of personal interactions with autonomous AI
 ## Conclusion
 
 The compilation of sources analyzed provides a robust framework for understanding the role of LLM-based agents in software development. Across various methodologies and applications, these agents promise significant transformations in the efficiency and capability of programming teams. As the technology progresses, further research and practical implementations will undoubtedly refine and expand their potential within the industry.
-```
